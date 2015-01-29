@@ -14,7 +14,7 @@ How to use SwipeTabs
     - styles.css              an example css file (not necessary)
 
 3. Go through the index.html to see how to write the html
-4. Lastly call swipe js like :
+4. Lastly call swipeTabs:
 
 var swipe = new swipeTabs({
       el : "#trial1"                // your container id

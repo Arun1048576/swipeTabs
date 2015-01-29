@@ -1,0 +1,21 @@
+li {
+	font-size: 20px;
+	color:white;
+	padding:10px;
+	text-align: center;
+}
+ul {
+	background-color: #7323DC;
+	padding:0 10px;
+}
+.swipe-tab-active {
+	border-bottom: 10px solid white !important;
+}
+body {
+	margin:0px;
+	background-color: grey;
+}
+.tab-content {
+	margin:10px;
+	background-color: white;
+}

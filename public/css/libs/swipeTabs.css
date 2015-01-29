@@ -1,0 +1,17 @@
+	.swipe-tab-container{
+	width: 100%;     
+}
+.swipe-tab-container ul {
+	white-space: nowrap;
+	overflow: auto;
+}
+.swipe-tab-container ul li {
+	display: inline-block;
+	cursor: pointer;
+}
+.swipe-tab-active {
+	border-bottom: 5px solid;
+}
+::-webkit-scrollbar { 
+	display: none; 
+}

@@ -1,6 +1,6 @@
 # swipeTabs
 
-For demo see : https://fast-ocean-7392.herokuapp.com
+For demo see : https://fast-ocean-7392.herokuapp.com in your mobile
 
 How to use SwipeTabs
 

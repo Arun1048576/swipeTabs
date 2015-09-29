@@ -1,5 +1,7 @@
 # swipeTabs
 
+For demo see : https://fast-ocean-7392.herokuapp.com
+
 How to use SwipeTabs
 
 1. Include the js files:
